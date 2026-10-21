@@ -1,0 +1,27 @@
+PASS | zero minutes is zero billed hours
+PASS | one minute rounds up
+PASS | 60 minutes is one hour
+PASS | 61 minutes rounds up to two
+PASS | van 08:59 uses ordinary car rate
+PASS | van 09:00 uses double rate
+PASS | van 16:59 uses double rate
+PASS | van 17:00 returns to ordinary rate
+PASS | blank plate rejected
+PASS | negative charging energy rejected
+PASS | reserved student plate gets Floor 2 S036
+PASS | duplicate active plate rejected
+Duration: 0 minutes (0 billed hours)
+Parking fee: Rs 0.00
+Charging fee: Rs 0.00
+Total due: Rs 0.00
+PASS | slot released after exit
+PASS | last available slot can be allocated
+PASS | full facility rejects next entry
+Duration: 61 minutes (2 billed hours)
+Parking fee: Rs 0.00
+Charging fee: Rs 0.00
+Total due: Rs 0.00
+PASS | visitor one-day pass covers parking fee
+PASS | unknown vehicle category is rejected by enum parsing
+PASS | invalid zero-slot floor capacity rejected
+RESULT: 18/18 checks passed

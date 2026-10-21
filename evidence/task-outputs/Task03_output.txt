@@ -1,0 +1,14 @@
+Ordinary visitor: Floor 1, S001
+Reserved user: Floor 2, S036 (reserved)
+Duplicate allocation is not done by this simple demo; integrated system validates active plates.
+Floor 1: 1/20 occupied, 19 free
+Floor 2: 1/40 occupied, 39 free
+Floor 3: 0/17 occupied, 17 free
+Floor 4: 0/23 occupied, 23 free
+Floor 5: 0/31 occupied, 31 free
+Release Floor 1 Slot 1: true
+Floor 1: 0/20 occupied, 20 free
+Floor 2: 1/40 occupied, 39 free
+Floor 3: 0/17 occupied, 17 free
+Floor 4: 0/23 occupied, 23 free
+Floor 5: 0/31 occupied, 31 free

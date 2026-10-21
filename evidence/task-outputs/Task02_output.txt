@@ -1,0 +1,15 @@
+CAMPUS SMART PARKING ? DATA REPRESENTATION
+Registration : TN01AA1111
+Floor / slot : 2 / S036
+Ticket       : 10001 (long)
+Occupied     : true (boolean)
+Sample fee   : Rs. 60.00
+
+Floor capacities:
+Floor 1: 20 slots
+Floor 2: 40 slots
+Floor 3: 17 slots
+Floor 4: 23 slots
+Floor 5: 31 slots
+Active ticket lookup: 10001
+61 minutes -> 2 billed hours -> Rs. 60.00

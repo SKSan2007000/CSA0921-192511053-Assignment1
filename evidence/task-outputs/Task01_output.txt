@@ -1,0 +1,10 @@
+CAMPUS SMART PARKING ? PROBLEM ANALYSIS
+INPUT                    | PROCESS                                | OUTPUT
+---------------------------------------------------------------------------------------------------------
+Registration plate       | Normalize and check duplicates         | Valid vehicle identity
+Vehicle/user category    | Select eligible slot and rate          | Assigned bay and hourly rate
+Entry/exit time          | Calculate elapsed and billed hours     | Parking fee
+EV kWh                   | Multiply by charging tariff            | Separate charging fee
+
+Core objects: Vehicle, ParkingSlot, ParkingTicket, ParkingFacility.
+Constraints: one vehicle per slot; no duplicate active plate; reserved bays are protected.

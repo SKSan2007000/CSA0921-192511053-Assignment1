@@ -1,0 +1,6 @@
+Vehicle: TN03EV3333, energy=5.5 kWh
+First occupy: true
+Second occupy: false (must fail because occupied)
+Location/status: Floor 2, S036, occupied=true
+Release: true; occupied=false
+Invalid input rejected: Registration cannot be blank

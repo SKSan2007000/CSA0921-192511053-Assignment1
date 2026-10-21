@@ -1,0 +1,24 @@
+=== Task01 ===
+Compile: PASS
+=== Task02 ===
+Compile: PASS
+=== Task03 ===
+Compile: PASS
+=== Task04 ===
+Compile: PASS
+=== Task05 ===
+Compile: PASS
+=== Task06 ===
+Compile: PASS
+=== Task07 ===
+Compile: PASS
+=== Task08 ===
+Compile: PASS
+=== Task09 ===
+Compile: PASS
+=== Task10 ===
+Compile: PASS
+=== Task11 ===
+Compile: PASS
+=== Task12 ===
+Compile: PASS

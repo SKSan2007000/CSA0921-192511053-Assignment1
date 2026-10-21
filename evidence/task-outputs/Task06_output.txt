@@ -1,0 +1,8 @@
+VEHICLE INHERITANCE HIERARCHY
+Two-wheeler        TN01AA1111
+Car                TN02BB2222
+Electric car       TN03EV3333
+E-bike             TN04EB4444
+Delivery van       TN05DV5555
+Service vehicle    TN06SV6666
+EV charging 5.5 kWh: Rs. 66.00

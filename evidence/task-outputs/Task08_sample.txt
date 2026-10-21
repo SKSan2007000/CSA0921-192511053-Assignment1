@@ -1,0 +1,6 @@
+POLYMORPHIC HOURLY RATE SELECTION
+Enter entry time (HH:mm): RateBike     plate=TN01AA1111 time=10:30 rate=Rs.10.00/hour
+RateCar      plate=TN02BB2222 time=10:30 rate=Rs.30.00/hour
+RateEbike    plate=TN03EB3333 time=10:30 rate=Rs.8.00/hour
+RateVan      plate=TN04DV4444 time=10:30 rate=Rs.60.00/hour
+The same hourlyRate() call selects each object's overridden method at runtime.

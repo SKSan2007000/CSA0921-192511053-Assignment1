@@ -1,0 +1,9 @@
+CAMPUS SMART PARKING - REDESIGNED FEE RULES
+Registration plate: Vehicle type (BIKE/EBIKE/CAR/EV/SERVICE/VAN): Parking duration in minutes: Entry time (HH:mm): Valid monthly pass? (y/n): Visitor one-day pass? (y/n): 
+--- Calculation ---
+Registration : TN02DV2222
+Vehicle type : VAN
+Hourly rate  : Rs. 60.00
+Billed hours : 2
+Parking fee  : Rs. 120.00
+Van rate window: Rs.60/hour from 09:00 up to (but not including) 17:00; otherwise Rs.30/hour.

@@ -1,0 +1,6 @@
+POLYMORPHIC HOURLY RATE SELECTION
+RateBike     plate=TN01AA1111 time=08:59 rate=Rs.10.00/hour
+RateCar      plate=TN02BB2222 time=10:00 rate=Rs.30.00/hour
+RateEbike    plate=TN03EB3333 time=12:00 rate=Rs.8.00/hour
+RateVan      plate=TN04DV4444 time=17:00 rate=Rs.30.00/hour
+Same method call, different implementation selected at runtime.

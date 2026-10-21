@@ -1,0 +1,4 @@
+Car TN01AA1111 rate: Rs. 30.00/hour
+EV TN02EV2222 rate: Rs. 30.00/hour
+EV charging 4 kWh: Rs. 48.00
+Abstract class shares vehicle state; Chargeable defines an optional capability.

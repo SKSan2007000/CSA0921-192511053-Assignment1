@@ -1,0 +1,9 @@
+CAMPUS SMART PARKING - SLOT ALLOCATION DEMO
+Enter registration plate (use SAN-0001 for reserved slot): Is this a registered student/faculty user? (y/n): Allocated slot: Floor 1, S001
+Current capacity:
+Floor 1: 1/20 occupied, 19 free
+Floor 2: 0/40 occupied, 40 free
+Floor 3: 0/17 occupied, 17 free
+Floor 4: 0/23 occupied, 23 free
+Floor 5: 0/31 occupied, 31 free
+Release a slot now? (y/n): 

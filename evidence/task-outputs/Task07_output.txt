@@ -1,0 +1,4 @@
+Car: TN01AA1111 @ Rs.30.0/hour
+Bike: TN02BB2222 @ Rs.10.0/hour
+Same normalized registration equals: true
+Equal objects have equal hash codes: true

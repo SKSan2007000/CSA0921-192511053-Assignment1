@@ -1,0 +1,6 @@
+T1001 for TN01AA1111
+T1002 for TN09EV2026
+T1003 for TN22BB3333
+Shared static counter: 1003
+Each ticket has its own plate and ID; the counter is shared by the class.
+Counter resets on restart because this demo does not persist it to a database.

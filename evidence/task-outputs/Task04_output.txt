@@ -1,0 +1,5 @@
+Default constructor : NOT-SET [UNKNOWN]
+Parameterized       : TN01AA1111 [CAR]
+ElectricCarRecord constructor: battery=60 kWh
+Child object        : TN09EV2026 [ELECTRIC CAR], battery=60 kWh
+Constructor chaining uses this(...); inheritance initialisation uses super(...).

@@ -1,0 +1,18 @@
+CAMPUS SMART PARKING ? VALIDATION DEMO
+PASS | 0 minutes bills 0 hours
+PASS | 1 minute rounds up
+PASS | 60 minutes is one hour
+PASS | 61 minutes rounds up to two
+PASS | van 08:59 ordinary rate
+PASS | van 09:00 double rate
+PASS | van 16:59 double rate
+PASS | van 17:00 ordinary rate
+PASS | blank plate rejected
+PASS | negative kWh rejected
+PASS | duplicate active plate detected
+PASS | unknown plate not found
+PASS | visitor daily pass parking fee waived
+PASS | monthly pass waives parking fee
+PASS | ordinary car 2 hours costs Rs.60
+PASS | EV charging is separate
+RESULT: 16 passed, 0 failed

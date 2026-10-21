@@ -1,0 +1,7 @@
+REDESIGNED PARKING PRICING RULES
+Bike, 60 min: Rs. 10.00
+E-bike, 60 min: Rs. 8.00
+Van, 2 hours at 10:00: Rs. 120.00
+Van, 2 hours at 17:00: Rs. 60.00
+Monthly pass, car parking: Rs. 0.00
+EV charging remains separate: kWh * Rs.12; it is not waived by a parking pass.
