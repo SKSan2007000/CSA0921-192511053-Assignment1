@@ -1,6 +1,0 @@
-Sample console runs are stored in evidence/task-outputs/:
-- Task03_sample.txt: input-based slot allocation and capacity summary.
-- Task08_sample.txt: input-based time and polymorphic rates.
-- Task12_sample.txt: input-based vehicle fee calculation.
-
-The full integrated validation result is in validation_checks.txt.
